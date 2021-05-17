@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#GridPhoto{
+    height:400;
+    width:400;
+}
+#slide{
+    height:1000;
+    width:300;
+}
